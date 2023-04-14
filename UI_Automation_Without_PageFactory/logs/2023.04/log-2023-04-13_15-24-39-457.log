@@ -1,0 +1,4 @@
+2023-04-13 15:24:56.493 [main] INFO  com.ecommerce.ebay.pages.Page_ebay - dialog window opened successfully
+2023-04-13 15:25:17.390 [main] INFO  com.ecommerce.ebay.pages.Page_ebay - filters are selected successfully
+2023-04-13 15:25:32.542 [main] INFO  com.ecommerce.ebay.pages.Page_ebay - Page loaded successfully with search results
+2023-04-13 15:25:33.821 [main] INFO  com.ecommerce.ebay.pages.Page_ebay - Search results found for the search input  MacBook
